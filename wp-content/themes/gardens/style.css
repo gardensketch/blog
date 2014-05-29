@@ -1,0 +1,13 @@
+/*
+ Theme Name:   Gardens
+ Description:  Gardens Flexible child theme
+ Author:       Tylor Sherman
+ Author URI:   http://denimandsteel.com
+ Template:     Flexible
+*/
+
+@import url("../Flexible/style.css");
+
+#logo { text-transform: none; }
+.comment-body { padding-left: 0; }
+#featured { margin-bottom: 0; }
